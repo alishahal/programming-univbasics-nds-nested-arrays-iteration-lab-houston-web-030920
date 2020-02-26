@@ -32,7 +32,7 @@ end
   while row < src.count do 
     col = 1 
     while col < src[row].count do
-      if src[row][col-1] < src[row][col]
+       
         newArray << src[row][col]
       else
         newArray << src[row][col-1]
