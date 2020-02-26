@@ -58,5 +58,4 @@ def total_even_pairs(src)
   newArray
   
   
-  
 end
