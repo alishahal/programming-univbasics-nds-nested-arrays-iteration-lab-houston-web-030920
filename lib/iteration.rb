@@ -46,7 +46,6 @@ end
   newArray
   
   
-  
 end
 
 def total_even_pairs(src)
