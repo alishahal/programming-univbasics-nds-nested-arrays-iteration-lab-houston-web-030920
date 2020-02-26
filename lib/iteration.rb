@@ -16,7 +16,7 @@ def join_ingredients(src)
       col += 1
     end
     row += 1
-    end
+  end
     newArra
 
 end
