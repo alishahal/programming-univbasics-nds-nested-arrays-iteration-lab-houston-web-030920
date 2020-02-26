@@ -31,9 +31,7 @@ end
     row +=1
   end
   newArray
-  
- 
-  
+
   
 end
 
